@@ -1,6 +1,6 @@
 import telebot
     
-bot = telebot.TeleBot("7663125275:AAEOh5TO84wldZCSM71hX2bs-ZvZO-I31l8")
+bot = telebot.TeleBot("")
     
     # Обработчик команды '/start' и '/hello'
 @bot.message_handler(commands=['start', 'hello'])
